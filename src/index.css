@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
