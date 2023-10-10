@@ -2,8 +2,7 @@
   "name": "nanoo",
   "version": "0.1.0",
   "description": "",
-  "homepage": ".",
-  "license": "MIT",
+  "homepage": "nanoo-route",
   "scripts": {
     "start": "vite",
     "preview": "vite preview",
