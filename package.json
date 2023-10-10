@@ -2,13 +2,13 @@
   "name": "nanoo",
   "version": "0.1.0",
   "description": "",
-  "homepage": "https://illicchpv.github.io/nanoo-route/",
+  "homepage": ".",
   "license": "MIT",
   "scripts": {
     "start": "vite",
     "preview": "vite preview",
     "build": "vite build",
-    "predeploy": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
